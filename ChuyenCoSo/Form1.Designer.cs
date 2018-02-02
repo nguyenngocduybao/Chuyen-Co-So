@@ -54,7 +54,7 @@
             this.label_Nhap.Name = "label_Nhap";
             this.label_Nhap.Size = new System.Drawing.Size(33, 13);
             this.label_Nhap.TabIndex = 0;
-            this.label_Nhap.Text = "Nhap";
+            this.label_Nhap.Text = "Nhập";
             // 
             // tb_Nhap
             // 
@@ -182,7 +182,7 @@
             this.label_Xuat.Name = "label_Xuat";
             this.label_Xuat.Size = new System.Drawing.Size(44, 13);
             this.label_Xuat.TabIndex = 12;
-            this.label_Xuat.Text = "Ket qua";
+            this.label_Xuat.Text = "Kết quả";
             // 
             // hexTobin
             // 
@@ -236,7 +236,7 @@
             this.Controls.Add(this.label_Nhap);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "ChuyenCoSo";
+            this.Text = "Chuyển Cơ Số";
             this.ResumeLayout(false);
             this.PerformLayout();
 

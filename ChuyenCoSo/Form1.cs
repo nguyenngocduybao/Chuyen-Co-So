@@ -314,5 +314,6 @@ namespace ChuyenCoSo
 
             tb_Xuat.Text = c;
         }
+
     }
 }
