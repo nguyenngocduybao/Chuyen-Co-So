@@ -44,32 +44,30 @@
             this.hexTobin = new System.Windows.Forms.Button();
             this.hexTooct = new System.Windows.Forms.Button();
             this.tb_Xuat = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label_Nhap
             // 
             this.label_Nhap.AutoSize = true;
-            this.label_Nhap.Location = new System.Drawing.Point(102, 48);
-            this.label_Nhap.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label_Nhap.Location = new System.Drawing.Point(153, 74);
             this.label_Nhap.Name = "label_Nhap";
-            this.label_Nhap.Size = new System.Drawing.Size(33, 13);
+            this.label_Nhap.Size = new System.Drawing.Size(47, 20);
             this.label_Nhap.TabIndex = 0;
             this.label_Nhap.Text = "Nhập";
             // 
             // tb_Nhap
             // 
-            this.tb_Nhap.Location = new System.Drawing.Point(163, 45);
-            this.tb_Nhap.Margin = new System.Windows.Forms.Padding(2);
+            this.tb_Nhap.Location = new System.Drawing.Point(244, 69);
             this.tb_Nhap.Name = "tb_Nhap";
-            this.tb_Nhap.Size = new System.Drawing.Size(161, 20);
+            this.tb_Nhap.Size = new System.Drawing.Size(240, 26);
             this.tb_Nhap.TabIndex = 1;
             // 
             // decTobin
             // 
-            this.decTobin.Location = new System.Drawing.Point(42, 95);
-            this.decTobin.Margin = new System.Windows.Forms.Padding(2);
+            this.decTobin.Location = new System.Drawing.Point(63, 146);
             this.decTobin.Name = "decTobin";
-            this.decTobin.Size = new System.Drawing.Size(65, 23);
+            this.decTobin.Size = new System.Drawing.Size(98, 35);
             this.decTobin.TabIndex = 2;
             this.decTobin.Text = "Dec->Bin";
             this.decTobin.UseVisualStyleBackColor = true;
@@ -77,10 +75,9 @@
             // 
             // decTooct
             // 
-            this.decTooct.Location = new System.Drawing.Point(42, 135);
-            this.decTooct.Margin = new System.Windows.Forms.Padding(2);
+            this.decTooct.Location = new System.Drawing.Point(63, 208);
             this.decTooct.Name = "decTooct";
-            this.decTooct.Size = new System.Drawing.Size(65, 23);
+            this.decTooct.Size = new System.Drawing.Size(98, 35);
             this.decTooct.TabIndex = 3;
             this.decTooct.Text = "Dec->Oct";
             this.decTooct.UseVisualStyleBackColor = true;
@@ -88,10 +85,9 @@
             // 
             // decTohex
             // 
-            this.decTohex.Location = new System.Drawing.Point(42, 174);
-            this.decTohex.Margin = new System.Windows.Forms.Padding(2);
+            this.decTohex.Location = new System.Drawing.Point(63, 268);
             this.decTohex.Name = "decTohex";
-            this.decTohex.Size = new System.Drawing.Size(65, 21);
+            this.decTohex.Size = new System.Drawing.Size(98, 32);
             this.decTohex.TabIndex = 4;
             this.decTohex.Text = "Dec->Hex";
             this.decTohex.UseVisualStyleBackColor = true;
@@ -99,10 +95,9 @@
             // 
             // binTodec
             // 
-            this.binTodec.Location = new System.Drawing.Point(147, 95);
-            this.binTodec.Margin = new System.Windows.Forms.Padding(2);
+            this.binTodec.Location = new System.Drawing.Point(220, 146);
             this.binTodec.Name = "binTodec";
-            this.binTodec.Size = new System.Drawing.Size(83, 23);
+            this.binTodec.Size = new System.Drawing.Size(124, 35);
             this.binTodec.TabIndex = 5;
             this.binTodec.Text = "Bin->Dec";
             this.binTodec.UseVisualStyleBackColor = true;
@@ -110,10 +105,9 @@
             // 
             // binTooct
             // 
-            this.binTooct.Location = new System.Drawing.Point(147, 135);
-            this.binTooct.Margin = new System.Windows.Forms.Padding(2);
+            this.binTooct.Location = new System.Drawing.Point(220, 208);
             this.binTooct.Name = "binTooct";
-            this.binTooct.Size = new System.Drawing.Size(83, 23);
+            this.binTooct.Size = new System.Drawing.Size(124, 35);
             this.binTooct.TabIndex = 6;
             this.binTooct.Text = "Bin->Oct";
             this.binTooct.UseVisualStyleBackColor = true;
@@ -121,10 +115,9 @@
             // 
             // binTohex
             // 
-            this.binTohex.Location = new System.Drawing.Point(147, 174);
-            this.binTohex.Margin = new System.Windows.Forms.Padding(2);
+            this.binTohex.Location = new System.Drawing.Point(220, 268);
             this.binTohex.Name = "binTohex";
-            this.binTohex.Size = new System.Drawing.Size(83, 21);
+            this.binTohex.Size = new System.Drawing.Size(124, 32);
             this.binTohex.TabIndex = 7;
             this.binTohex.Text = "Bin->Hex";
             this.binTohex.UseVisualStyleBackColor = true;
@@ -132,10 +125,9 @@
             // 
             // octTodec
             // 
-            this.octTodec.Location = new System.Drawing.Point(262, 95);
-            this.octTodec.Margin = new System.Windows.Forms.Padding(2);
+            this.octTodec.Location = new System.Drawing.Point(393, 146);
             this.octTodec.Name = "octTodec";
-            this.octTodec.Size = new System.Drawing.Size(73, 23);
+            this.octTodec.Size = new System.Drawing.Size(110, 35);
             this.octTodec.TabIndex = 8;
             this.octTodec.Text = "Oct->Dec";
             this.octTodec.UseVisualStyleBackColor = true;
@@ -143,10 +135,9 @@
             // 
             // octTobin
             // 
-            this.octTobin.Location = new System.Drawing.Point(262, 135);
-            this.octTobin.Margin = new System.Windows.Forms.Padding(2);
+            this.octTobin.Location = new System.Drawing.Point(393, 208);
             this.octTobin.Name = "octTobin";
-            this.octTobin.Size = new System.Drawing.Size(73, 23);
+            this.octTobin.Size = new System.Drawing.Size(110, 35);
             this.octTobin.TabIndex = 9;
             this.octTobin.Text = "Oct->Bin";
             this.octTobin.UseVisualStyleBackColor = true;
@@ -154,10 +145,9 @@
             // 
             // octTohex
             // 
-            this.octTohex.Location = new System.Drawing.Point(262, 174);
-            this.octTohex.Margin = new System.Windows.Forms.Padding(2);
+            this.octTohex.Location = new System.Drawing.Point(393, 268);
             this.octTohex.Name = "octTohex";
-            this.octTohex.Size = new System.Drawing.Size(73, 21);
+            this.octTohex.Size = new System.Drawing.Size(110, 32);
             this.octTohex.TabIndex = 10;
             this.octTohex.Text = "Oct->Hex";
             this.octTohex.UseVisualStyleBackColor = true;
@@ -165,10 +155,9 @@
             // 
             // hexTodec
             // 
-            this.hexTodec.Location = new System.Drawing.Point(367, 95);
-            this.hexTodec.Margin = new System.Windows.Forms.Padding(2);
+            this.hexTodec.Location = new System.Drawing.Point(550, 146);
             this.hexTodec.Name = "hexTodec";
-            this.hexTodec.Size = new System.Drawing.Size(63, 23);
+            this.hexTodec.Size = new System.Drawing.Size(94, 35);
             this.hexTodec.TabIndex = 11;
             this.hexTodec.Text = "Hex->Dec";
             this.hexTodec.UseVisualStyleBackColor = true;
@@ -177,19 +166,17 @@
             // label_Xuat
             // 
             this.label_Xuat.AutoSize = true;
-            this.label_Xuat.Location = new System.Drawing.Point(102, 225);
-            this.label_Xuat.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label_Xuat.Location = new System.Drawing.Point(153, 346);
             this.label_Xuat.Name = "label_Xuat";
-            this.label_Xuat.Size = new System.Drawing.Size(44, 13);
+            this.label_Xuat.Size = new System.Drawing.Size(64, 20);
             this.label_Xuat.TabIndex = 12;
             this.label_Xuat.Text = "Kết quả";
             // 
             // hexTobin
             // 
-            this.hexTobin.Location = new System.Drawing.Point(367, 135);
-            this.hexTobin.Margin = new System.Windows.Forms.Padding(2);
+            this.hexTobin.Location = new System.Drawing.Point(550, 208);
             this.hexTobin.Name = "hexTobin";
-            this.hexTobin.Size = new System.Drawing.Size(63, 23);
+            this.hexTobin.Size = new System.Drawing.Size(94, 35);
             this.hexTobin.TabIndex = 13;
             this.hexTobin.Text = "Hex->Bin";
             this.hexTobin.UseVisualStyleBackColor = true;
@@ -197,10 +184,9 @@
             // 
             // hexTooct
             // 
-            this.hexTooct.Location = new System.Drawing.Point(367, 174);
-            this.hexTooct.Margin = new System.Windows.Forms.Padding(2);
+            this.hexTooct.Location = new System.Drawing.Point(550, 268);
             this.hexTooct.Name = "hexTooct";
-            this.hexTooct.Size = new System.Drawing.Size(63, 21);
+            this.hexTooct.Size = new System.Drawing.Size(94, 32);
             this.hexTooct.TabIndex = 14;
             this.hexTooct.Text = "Hex->Oct";
             this.hexTooct.UseVisualStyleBackColor = true;
@@ -208,16 +194,27 @@
             // 
             // tb_Xuat
             // 
-            this.tb_Xuat.Location = new System.Drawing.Point(163, 222);
+            this.tb_Xuat.Location = new System.Drawing.Point(244, 342);
+            this.tb_Xuat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.tb_Xuat.Name = "tb_Xuat";
-            this.tb_Xuat.Size = new System.Drawing.Size(161, 20);
+            this.tb_Xuat.Size = new System.Drawing.Size(240, 26);
             this.tb_Xuat.TabIndex = 15;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(506, 409);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(166, 20);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "Made by Hunter Team";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(456, 285);
+            this.ClientSize = new System.Drawing.Size(684, 438);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.tb_Xuat);
             this.Controls.Add(this.hexTooct);
             this.Controls.Add(this.hexTobin);
@@ -234,7 +231,6 @@
             this.Controls.Add(this.decTobin);
             this.Controls.Add(this.tb_Nhap);
             this.Controls.Add(this.label_Nhap);
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Chuyển Cơ Số";
             this.ResumeLayout(false);
@@ -260,6 +256,7 @@
         private System.Windows.Forms.Button hexTobin;
         private System.Windows.Forms.Button hexTooct;
         private System.Windows.Forms.TextBox tb_Xuat;
+        private System.Windows.Forms.Label label1;
     }
 }
 

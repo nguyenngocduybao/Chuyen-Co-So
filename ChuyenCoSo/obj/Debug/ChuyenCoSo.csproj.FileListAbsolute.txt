@@ -9,3 +9,12 @@ D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe
 D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.pdb
 D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.exe
 D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.pdb
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe.config
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\bin\Debug\ChuyenCoSo.pdb
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.csprojResolveAssemblyReference.cache
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.Form1.resources
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.Properties.Resources.resources
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.csproj.GenerateResource.Cache
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.exe
+C:\Users\BaoDuy\Documents\GitHub\Chuyen-Co-So\ChuyenCoSo\obj\Debug\ChuyenCoSo.pdb
