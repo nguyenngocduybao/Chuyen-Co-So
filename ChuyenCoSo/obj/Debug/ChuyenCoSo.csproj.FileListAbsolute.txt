@@ -1,1 +1,11 @@
 c:\users\baoduy\documents\visual studio 2015\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe.config
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.csprojResolveAssemblyReference.cache
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.Form1.resources
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.Properties.Resources.resources
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.csproj.GenerateResource.Cache
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.csproj.CoreCompileInputs.cache
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe.config
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.exe
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\bin\Debug\ChuyenCoSo.pdb
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.exe
+D:\Mine\5. Study\Projects\ChuyenCoSo\ChuyenCoSo\obj\Debug\ChuyenCoSo.pdb
